@@ -1,0 +1,58 @@
+body {
+  color: $primary-text-color;
+  font-family: $primery-font;
+  letter-spacing: 0.03em;
+  background-color: $primery-background-color;
+  //   background: linear-gradient(180deg, #2f3893 0%, #213169 100%);
+  //   background: linear-gradient(180deg, #2f3893 0%, #213169 100%),
+  //     linear-gradient(180deg, #12195b 0%, #170a3c 100%);
+  //   background-repeat: no-repeat;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  /*   width: 1200px; */
+
+  @media screen and (min-width: 480px) {
+    width: 480px;
+  }
+
+  @media screen and (min-width: 768px) {
+    width: 768px;
+  }
+
+  @media screen and (min-width: 1200px) {
+    width: 1200px;
+  }
+}
+
+.button {
+  border-radius: 18px;
+  height: 48px;
+  border: none;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 28px;
+  color: $white-color;
+}

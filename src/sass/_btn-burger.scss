@@ -1,0 +1,32 @@
+.button-burger {
+  @media screen and(min-width:768px) {
+    display: none;
+  }
+  /*   position: absolute;
+  top: 0;
+  right: 0; */
+  display: inline-flex;
+  /*   margin-right: 15px;
+  margin-top: 10px; */
+  padding: 0;
+  margin: 0;
+  background-color: transparent;
+  fill: $white-color;
+  border: none;
+
+  z-index: 999;
+
+  /*   & .icon-close_burger {
+    display: none;
+  } */
+
+  //   & .icon-menu_burger:hover,
+  //   & .icon-menu_burger:focus {
+  //     fill: $accent-color;
+  //   }
+
+  //   & .icon-close_burger:hover,
+  //   & .icon-close_burger:focus {
+  //     fill: $accent-color;
+  //   }
+}

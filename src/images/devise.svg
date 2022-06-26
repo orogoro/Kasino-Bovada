@@ -1,0 +1,14 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-des" viewBox="0 0 32 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" opacity="0.25" d="M26.667 4h-21.333c-1.471 0-2.667 1.196-2.667 2.667v14.667c0 1.471 1.196 2.667 2.667 2.667h9.333v2.667h-4v2.667h10.667v-2.667h-4v-2.667h9.333c1.471 0 2.667-1.196 2.667-2.667v-14.667c0-1.471-1.196-2.667-2.667-2.667zM5.333 18.667v-12h21.333l0.003 12h-21.336z"></path>
+</symbol>
+<symbol id="icon-mob" viewBox="0 0 32 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" opacity="0.25" d="M22.333 2.667h-13.333c-1.471 0-2.667 1.196-2.667 2.667v21.333c0 1.471 1.196 2.667 2.667 2.667h13.333c1.471 0 2.667-1.196 2.667-2.667v-21.333c0-1.471-1.196-2.667-2.667-2.667zM9 26.667v-21.333h13.333l0.003 21.333h-13.336z"></path>
+<path fill="#fff" style="fill: var(--color1, #fff)" opacity="0.25" d="M15.667 25.333c0.736 0 1.333-0.597 1.333-1.333s-0.597-1.333-1.333-1.333v0c-0.736 0-1.333 0.597-1.333 1.333s0.597 1.333 1.333 1.333v0z"></path>
+</symbol>
+<symbol id="icon-tab" viewBox="0 0 32 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" opacity="0.25" d="M8 2.667c-1.471 0-2.667 1.196-2.667 2.667v21.333c0 1.471 1.196 2.667 2.667 2.667h16c1.471 0 2.667-1.196 2.667-2.667v-21.333c0-1.471-1.196-2.667-2.667-2.667h-16zM8 22.667v-16h16l0.003 16h-16.003z"></path>
+</symbol>
+</defs>
+</svg>
